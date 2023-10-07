@@ -1,0 +1,13 @@
+date,user_id,event_name,mobile_os_type,version
+1/10/2020,0741d2813527501f6c9fd2c66bd59c0e,push_received,U683CL,11.3.1
+1/11/2020,f5d1bd9f7a7be974367019665910989e,push_received,U683CL,11.3.1
+1/11/2020,325b61cf1c4dc2a51eaf7ded19a48d98,push_received,U683CL,11.3.0
+1/11/2020,ad32a2073e48423c2cd7ff3da30065d8,screen_view,U683CL,11.3.1
+1/11/2020,05663e0cfd5550ea2777f28c90af7b7b,push_received,U683CL,11.3.1
+1/11/2020,8d2f1bc552b468bc198fd4a6de083d99,push_received,U683CL,11.3.1
+1/10/2020,0741d2813527501f6c9fd2c66bd59c0e,push_received,U683CL,11.3.1
+1/9/2020,f5d1bd9f7a7be974367019665910989e,push_received,U683CL,11.3.1
+1/10/2020,325b61cf1c4dc2a51eaf7ded19a48d98,push_received,U683CL,11.3.0
+1/8/2020,ad32a2073e48423c2cd7ff3da30065d8,screen_view,U683CL,11.3.1
+1/7/2020,05663e0cfd5550ea2777f28c90af7b7b,push_received,U683CL,11.3.1
+1/6/2020,8d2f1bc552b468bc198fd4a6de083d99,push_received,U683CL,11.3.1
