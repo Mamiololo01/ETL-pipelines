@@ -67,9 +67,7 @@ Start the installed integration runtime and ADF is ready to be integrated with O
 
 
 
-
 Step 2 - Mounting the database to perform Data Transformation using Azure Databricks To do any kind of transformations, we need some compute power to do perform them. In Azure databricks, the 'compute' option gives us the capability to fire spark clusters and perform data transformations.
-
 
 
 Using the workspace tab, we can create jupyter notebooks to mount the data from three layers into the datalake. The notebook will use the resources configured by spark clusters. The data transformations would be different for different projects, we are doing a simple transfomation such as modifying the datetime format to date format. The file is loaded in parquet format which is a column-based data format and is highly efficient.
@@ -80,7 +78,7 @@ Step 3 - Connecting Azure Data Factory with Azure Databricks to create data pipe
 In this step, we will be connecting Azure Databricks to create data pipeline that will be triggered automatically whenever there is new data. Similar to step 1, we will create two new Databricks notebook activities following the data ingestion part, i.e bronze to silver and silver to gold. Connect the output of ForEach activity to bronze to silver notebook.
 
 
-The outpur from bronze to silver layer goes to silver to gold layer where the final transformations will happen and put the final data in gold container. The final data will be in delta format since this new format can handle schema changes and can keep track of file versions. One interesting thing is that we can monitor the execution of Azure Databricks notebook in real time, which could come handy to debug the code while runtime.
+The output from bronze to silver layer goes to silver to gold layer where the final transformations will happen and put the final data in gold container. The final data will be in delta format since this new format can handle schema changes and can keep track of file versions. One interesting thing is that we can monitor the execution of Azure Databricks notebook in real time, which could come handy to debug the code while runtime.
 
 Step 4 - Load the data to Azure Synapse Analytics for further big data analytics Azure Synapse Analytics is built on top of Azure Data Factory, so many options can be found in the Synapse Analytics. In Azure Synapse Analytics, we can create databases which is not available in ADF.
 
