@@ -8,7 +8,10 @@ Subsequently, Apache Spark is utilized to conduct data processing tasks, followi
 
 The entire pipeline is encapsulated within Docker containers, affording a streamlined and portable deployment mechanism.
 
+
 ## Technical Architecture
+
+![Screenshot 2024-10-07 at 10 05 58 PM](https://github.com/user-attachments/assets/b47ff1e7-f14f-4926-8721-2a307e69751c)
 
 
 
