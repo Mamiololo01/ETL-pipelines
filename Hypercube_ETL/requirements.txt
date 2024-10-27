@@ -1,0 +1,5 @@
+pandas
+numpy
+requests==2.31.0
+Flask==0.10.1
+mysql-connector-python==8.0.33

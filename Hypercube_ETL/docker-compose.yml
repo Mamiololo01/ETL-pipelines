@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  db:
+    image: mysql:8.0
+    container_name: mysql_db
+    environment:
+      MYSQL_ROOT_PASSWORD: admin@123
+      MYSQL_DATABASE: forecasting_data
+    volumes:
+      - ./data:/var/lib/mysql
+      - ./schema.sql:/docker-entrypoint-initdb.d/schema.sql
+    ports:
+      - "3306:3306"
+
+  data_builder:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: data_builder_container
+    volumes:
+      - ./data:/app/data
+    command: python /app/main.py
+    depends_on:
+      - db
