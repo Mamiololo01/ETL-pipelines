@@ -1,8 +1,8 @@
-## Data Migration and Analytics using Microsoft Azure
+# Data Migration and Analytics using Microsoft Azure
 
 In this project we are going to create an end-to-end data pipeline that moves the data from an On-Prem SQL database and following steps such as Data Ingestion, Data Transformation, Data Loading, Data Governance and finally Data Reporting using Microsoft Power BI.
 
-# Project Goals
+## Project Goals
 
 Data Ingestion - Create a data ingestion pipeline to extract data from on-premises SQL Server Database using Azure Data Factory
 
@@ -15,7 +15,7 @@ Data Governance - Create Azure key vaults and Active Directory to monitor and go
 Data Analytics - Create data integration pipeline with Power BI using Azure Synapse Analytics to create powerful visualizations.
 
 
-# Data Architecture
+## Data Architecture
 
 The architecture (Data flow) used in this project uses different Azure functionalities.
 
@@ -31,13 +31,13 @@ Silver Layer - In this step, soft data transformations are performed such as fix
 Gold Layer - This layer is the cleanest form of data that can be used for downstream tasks. Number of other things could also be implemented at this stage like business rules, conformity checks, etc.
 
 
-# Dataset Used
+## Dataset Used
 
 The dataset is an open source database provided by Microsoft namely 'AdventureWorks2017'. It contains a lot of different tables with their corresponding relationships. Dataset link - https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
 
 
 
-# Microsoft Azure Services used in this project
+## Microsoft Azure Services used in this project
 
 Azure Data Lake Gen2 Storage - A data lake is a single, centralized repository where you can store all your data, both structured and unstructured. It provides various tools to deal with Big Data analytics based on Azure Blob Storage. It is mainly designed to work with Hadoop and all frameworks that use the Apache HDFS as their data access layer.
 
@@ -55,7 +55,7 @@ Microsoft Power BI - Microsoft Power BI is a powerful business intelligence (BI)
 
 
 
-# Implementation steps.
+## Implementation steps.
 
 Step 1 - Create a data integration link service to connect SQL server with Azure Data Factory Since, the database is located in an on-premises SQL Server, Microsoft Azure needs a way to detect the stored data and able to interact with it.
 
@@ -89,9 +89,6 @@ Azure Synapse Analytics could be thought of as the combination of both Azure Dat
 Now, we have completed the data loading part.
 
 Step 5 - Connecting PowerBI to Azure Synapse Analytics to create interactive visualizations The PowerBI desktop will be used and the data source will be marked as Azure Synapse Analytics SQL views.
-
-
-PowerBI will load all the gold data views stored in Synapse Analytics. Below are some of the dashboard reporting created using PowerBI.
 
 
 
