@@ -2,7 +2,7 @@
 
 ### How would you do this in a production cloud environment?
 
-Deploying on production will involve having the details below and the architecture:
+Deploying on production will involve having the details below and the architecture showing the proposed architecture:
 
 ![Alt text](images/architecture.png)
 
