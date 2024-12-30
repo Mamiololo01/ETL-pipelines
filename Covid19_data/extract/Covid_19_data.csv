@@ -1,0 +1,514 @@
+SNo,ObservationDate,Province,Country,LastUpdate,Confirmed,Deaths,Recovered
+1,1/10/2020,Anhui,Mainland China,1/10/2020 17:00,1,0,0
+2,1/11/2020,Beijing,Mainland China,1/11/2020 17:00,14,0,0
+3,1/12/2020,Chongqing,Mainland China,1/12/2020 17:00,6,0,0
+4,1/13/2020,Fujian,Mainland China,1/13/2020 17:00,1,0,0
+5,1/13/2020,Gansu,Mainland China,1/13/2020 17:00,0,0,0
+6,1/12/2020,Guangdong,Mainland China,1/12/2020 17:00,26,0,0
+7,1/10/2020,Guangxi,Mainland China,1/10/2020 17:00,2,0,0
+8,1/15/2020,Guizhou,Mainland China,1/15/2020 17:00,1,0,0
+9,1/16/2020,Hainan,Mainland China,1/16/2020 17:00,4,0,0
+10,1/16/2020,Hebei,Mainland China,1/16/2020 17:00,1,0,0
+11,1/18/2020,Heilongjiang,Mainland China,1/18/2020 17:00,0,0,0
+12,1/20/2020,Henan,Mainland China,1/20/2020 17:00,5,0,0
+13,1/22/2020,Hong Kong,Hong Kong,1/22/2020 17:00,0,0,0
+14,1/21/2020,Hubei,Mainland China,1/21/2020 17:00,444,17,28
+15,1/22/2020,Hunan,Mainland China,1/22/2020 17:00,4,0,0
+16,2/5/2020,Inner Mongolia,Mainland China,2/5/2020 17:00,0,0,0
+17,2/5/2020,Jiangsu,Mainland China,2/5/2020 17:00,1,0,0
+18,2/5/2020,Jiangxi,Mainland China,2/5/2020 17:00,2,0,0
+19,2/5/2020,Jilin,Mainland China,2/5/2020 17:00,0,0,0
+20,2/6/2020,Liaoning,Mainland China,2/6/2020 17:00,2,0,0
+21,2/5/2020,Macau,Macau,2/6/2020 17:00,1,0,0
+22,2/6/2020,Ningxia,Mainland China,2/6/2020 17:00,1,0,0
+23,2/8/2020,Qinghai,Mainland China,2/8/2020 17:00,0,0,0
+24,2/8/2020,Shaanxi,Mainland China,2/8/2020 17:00,0,0,0
+25,2/8/2020,Shandong,Mainland China,2/8/2020 17:00,2,0,0
+26,2/12/2020,Shanghai,Mainland China,2/12/2020 17:00,9,0,0
+27,2/12/2020,Shanxi,Mainland China,2/12/2020 17:00,1,0,0
+28,2/12/2020,Sichuan,Mainland China,2/12/2020 17:00,5,0,0
+29,2/18/2020,Taiwan,Taiwan,2/18/2020 17:00,1,0,0
+30,2/18/2020,Tianjin,Mainland China,2/18/2020 17:00,4,0,0
+31,2/18/2020,Tibet,Mainland China,2/18/2020 17:00,0,0,0
+32,2/18/2020,Washington,US,2/18/2020 17:00,1,0,0
+33,2/20/2020,Xinjiang,Mainland China,2/20/2020 17:00,0,0,0
+34,2/20/2020,Yunnan,Mainland China,2/20/2020 17:00,1,0,0
+35,2/22/2020,Zhejiang,Mainland China,2/22/2020 17:00,10,0,0
+36,2/22/2020,,Japan,2/22/2020 17:00,2,0,0
+37,3/5/2020,,Thailand,3/5/2020 17:00,4,0,2
+38,3/5/2020,,South Korea,3/5/2020 17:00,1,0,0
+39,3/8/2020,Unknown,China,3/8/2020 17:00,0,0,0
+40,3/8/2020,,Kiribati,3/8/2020 17:00,0,0,0
+41,3/8/2020,Anhui,Mainland China,3/8/2020 17:00,9,0,0
+42,3/8/2020,Beijing,Mainland China,3/8/2020 17:00,22,0,0
+43,3/10/2020,Chongqing,Mainland China,3/10/2020 17:00,9,0,0
+44,3/10/2020,Fujian,Mainland China,3/10/2020 17:00,5,0,0
+45,3/10/2020,Gansu,Mainland China,3/10/2020 17:00,2,0,0
+46,3/10/2020,Guangdong,Mainland China,3/10/2020 17:00,32,0,2
+47,3/10/2020,Guangxi,Mainland China,3/10/2020 17:00,5,0,0
+48,3/12/2020,Guizhou,Mainland China,3/12/2020 17:00,3,0,0
+49,3/12/2020,Hainan,Mainland China,3/12/2020 17:00,5,0,0
+50,3/12/2020,Hubei,Mainland China,3/12/2020 17:00,444,17,28
+51,3/12/2020,Heilongjiang,Mainland China,3/12/2020 17:00,2,0,0
+52,3/12/2020,Henan,Mainland China,3/12/2020 17:00,5,0,0
+53,3/12/2020,Hong Kong,Hong Kong,3/12/2020 17:00,2,0,0
+54,3/18/2020,Hubei,Mainland China,3/18/2020 17:00,444,17,28
+55,3/18/2020,Hunan,Mainland China,3/18/2020 17:00,9,0,0
+56,3/18/2020,Inner Mongolia,Mainland China,3/18/2020 17:00,0,0,0
+57,3/18/2020,Jiangsu,Mainland China,3/18/2020 17:00,5,0,0
+58,3/18/2020,Jiangxi,Mainland China,3/18/2020 17:00,7,0,0
+59,3/18/2020,Jilin,Mainland China,3/18/2020 17:00,1,0,0
+60,3/18/2020,Liaoning,Mainland China,3/18/2020 17:00,3,0,0
+61,3/18/2020,Macau,Macau,3/18/2020 17:00,2,0,0
+62,4/5/2020,Ningxia,Mainland China,4/5/2020 17:00,1,0,0
+63,4/5/2020,Qinghai,Mainland China,4/5/2020 17:00,0,0,0
+64,4/5/2020,Shaanxi,Mainland China,4/5/2020 17:00,3,0,0
+65,4/5/2020,Shandong,Mainland China,4/5/2020 17:00,6,0,0
+66,4/8/2020,Shanghai,Mainland China,4/8/2020 17:00,16,0,0
+67,4/8/2020,Shanxi,Mainland China,4/8/2020 17:00,1,0,0
+68,4/8/2020,Sichuan,Mainland China,4/8/2020 17:00,8,0,0
+69,4/8/2020,Taiwan,Taiwan,4/8/2020 17:00,1,0,0
+70,4/8/2020,Tianjin,Mainland China,4/8/2020 17:00,4,0,0
+71,4/8/2020,Tibet,Mainland China,4/8/2020 17:00,0,0,0
+72,4/8/2020,Washington,US,4/8/2020 17:00,1,0,0
+73,4/8/2020,Xinjiang,Mainland China,4/8/2020 17:00,2,0,0
+74,4/8/2020,Yunnan,Mainland China,4/8/2020 17:00,2,0,0
+75,4/8/2020,Zhejiang,Mainland China,4/8/2020 17:00,27,0,0
+76,4/12/2020,,Japan,4/12/2020 17:00,1,0,0
+77,4/12/2020,,Thailand,4/12/2020 17:00,4,0,2
+78,4/12/2020,,South Korea,4/12/2020 17:00,1,0,0
+79,4/12/2020,,Singapore,4/12/2020 17:00,1,0,0
+80,4/12/2020,,Philippines,4/12/2020 17:00,0,0,0
+81,4/12/2020,,Malaysia,4/12/2020 17:00,0,0,0
+82,4/15/2020,,Vietnam,4/15/2020 17:00,2,0,0
+83,4/15/2020,,Australia,4/15/2020 17:00,0,0,0
+84,4/15/2020,,Mexico,4/15/2020 17:00,0,0,0
+85,4/15/2020,,Brazil,4/15/2020 17:00,0,0,0
+86,4/15/2020,,Colombia,4/15/2020 17:00,0,0,0
+87,4/20/2020,Unknown,China,4/20/2020 17:00,0,0,0
+88,4/20/2020,,Kiribati,4/20/2020 17:00,0,0,0
+89,4/20/2020,Hubei,Mainland China,4/20/2020 17:00,549,24,31
+90,4/20/2020,Guangdong,Mainland China,4/20/2020 17:00,53,0,2
+91,4/20/2020,Zhejiang,Mainland China,4/20/2020 17:00,43,0,1
+92,4/20/2020,Beijing,Mainland China,4/20/2020 17:00,36,0,1
+93,4/20/2020,Chongqing,Mainland China,4/20/2020 17:00,27,0,0
+94,4/20/2020,Hunan,Mainland China,4/20/2020 17:00,24,0,0
+95,4/20/2020,Guangxi,Mainland China,4/20/2020 17:00,23,0,0
+96,4/20/2020,Shanghai,Mainland China,4/20/2020 17:00,20,0,1
+97,4/20/2020,Jiangxi,Mainland China,4/20/2020 17:00,18,0,0
+98,4/20/2020,Sichuan,Mainland China,4/20/2020 17:00,15,0,0
+99,4/22/2020,Shandong,Mainland China,4/22/2020 17:00,15,0,0
+100,4/22/2020,Anhui,Mainland China,4/22/2020 17:00,15,0,0
+101,4/22/2020,Fujian,Mainland China,4/22/2020 17:00,10,0,0
+102,4/22/2020,Henan,Mainland China,4/22/2020 17:00,9,0,0
+103,4/22/2020,Jiangsu,Mainland China,4/22/2020 17:00,9,0,0
+104,4/22/2020,Hainan,Mainland China,4/22/2020 17:00,8,0,0
+105,4/22/2020,Tianjin,Mainland China,4/22/2020 17:00,8,0,0
+106,4/22/2020,Yunnan,Mainland China,4/22/2020 17:00,5,0,0
+107,4/28/2020,Shaanxi,Mainland China,4/28/2020 17:00,5,0,0
+108,4/28/2020,Heilongjiang,Mainland China,4/28/2020 17:00,4,1,0
+109,4/28/2020,Liaoning,Mainland China,4/28/2020 17:00,4,0,0
+110,4/28/2020,Guizhou,Mainland China,4/28/2020 17:00,3,0,0
+111,4/28/2020,Jilin,Mainland China,4/28/2020 17:00,3,0,0
+112,5/5/2020,Taiwan,Taiwan,5/5/2020 17:00,3,0,0
+113,5/5/2020,Ningxia,Mainland China,5/5/2020 17:00,2,0,0
+114,5/5/2020,Hong Kong,Hong Kong,5/5/2020 17:00,2,0,0
+115,5/5/2020,Macau,Macau,5/5/2020 17:00,2,0,0
+116,5/5/2020,Hebei,Mainland China,5/5/2020 17:00,2,1,0
+117,5/5/2020,Gansu,Mainland China,5/5/2020 17:00,2,0,0
+118,5/5/2020,Xinjiang,Mainland China,5/5/2020 17:00,2,0,0
+119,5/8/2020,Shanxi,Mainland China,5/8/2020 17:00,1,0,0
+120,5/8/2020,Inner Mongolia,Mainland China,5/8/2020 17:00,1,0,0
+121,5/8/2020,Qinghai,Mainland China,5/8/2020 17:00,0,0,0
+122,5/8/2020,Washington,US,5/8/2020 17:00,1,0,0
+123,5/8/2020,Chicago,US,5/8/2020 17:00,1,0,0
+124,5/8/2020,,Japan,5/8/2020 17:00,2,0,0
+125,5/10/2020,,Thailand,5/10/2020 17:00,5,0,3
+126,5/10/2020,,South Korea,5/10/2020 17:00,2,0,0
+127,5/10/2020,,Singapore,5/10/2020 17:00,3,0,0
+128,5/10/2020,,Vietnam,5/10/2020 17:00,2,0,0
+129,5/10/2020,,France,5/10/2020 17:00,2,0,0
+130,5/10/2020,Unknown,China,5/10/2020 17:00,0,0,0
+131,5/12/2020,,Kiribati,5/12/2020 17:00,0,0,0
+132,5/12/2020,Hubei,Mainland China,5/12/2020 17:00,761,40,32
+133,5/12/2020,Guangdong,Mainland China,5/12/2020 17:00,78,0,2
+134,5/12/2020,Zhejiang,Mainland China,5/12/2020 17:00,62,0,1
+135,5/12/2020,Chongqing,Mainland China,5/12/2020 17:00,57,0,0
+136,5/12/2020,Hunan,Mainland China,5/12/2020 17:00,43,0,0
+137,5/12/2020,Beijing,Mainland China,5/12/2020 17:00,41,0,2
+138,5/18/2020,Anhui,Mainland China,5/18/2020 17:00,39,0,0
+139,5/18/2020,Shanghai,Mainland China,5/18/2020 17:00,33,0,1
+140,5/18/2020,Henan,Mainland China,5/18/2020 17:00,32,0,0
+141,5/18/2020,Sichuan,Mainland China,5/18/2020 17:00,28,0,0
+142,5/18/2020,Shandong,Mainland China,5/18/2020 17:00,27,0,0
+143,5/18/2020,Guangxi,Mainland China,5/18/2020 17:00,23,0,0
+144,5/18/2020,Hainan,Mainland China,5/18/2020 17:00,19,0,0
+145,5/18/2020,Jiangxi,Mainland China,5/18/2020 17:00,18,0,0
+146,5/18/2020,Fujian,Mainland China,5/18/2020 17:00,18,0,0
+147,5/18/2020,Jiangsu,Mainland China,5/18/2020 17:00,18,0,1
+148,5/22/2020,Liaoning,Mainland China,5/22/2020 17:00,17,0,0
+149,5/22/2020,Shaanxi,Mainland China,5/22/2020 17:00,15,0,0
+150,5/22/2020,Yunnan,Mainland China,5/22/2020 17:00,11,0,0
+151,5/22/2020,Tianjin,Mainland China,5/22/2020 17:00,10,0,0
+152,5/22/2020,Heilongjiang,Mainland China,5/22/2020 17:00,9,1,0
+153,5/22/2020,Hebei,Mainland China,5/22/2020 17:00,8,1,0
+154,5/22/2020,Inner Mongolia,Mainland China,5/22/2020 17:00,7,0,0
+155,5/22/2020,Shanxi,Mainland China,5/22/2020 17:00,6,0,0
+156,5/22/2020,Hong Kong,Hong Kong,5/22/2020 17:00,5,0,0
+157,5/22/2020,Guizhou,Mainland China,5/22/2020 17:00,4,0,0
+158,5/22/2020,Jilin,Mainland China,5/22/2020 17:00,4,0,0
+159,5/22/2020,Gansu,Mainland China,5/22/2020 17:00,4,0,0
+160,5/22/2020,Ningxia,Mainland China,5/22/2020 17:00,3,0,0
+161,5/22/2020,Taiwan,Taiwan,5/22/2020 17:00,3,0,0
+162,5/28/2020,Xinjiang,Mainland China,5/28/2020 17:00,3,0,0
+163,5/28/2020,Macau,Macau,5/28/2020 17:00,2,0,0
+164,5/28/2020,Qinghai,Mainland China,5/28/2020 17:00,1,0,0
+165,5/28/2020,Washington,US,5/28/2020 17:00,1,0,0
+166,5/28/2020,Illinois,US,5/28/2020 17:00,1,0,0
+167,5/28/2020,,Japan,5/28/2020 17:00,2,0,0
+168,5/28/2020,,Thailand,5/28/2020 17:00,6,0,3
+169,5/28/2020,,South Korea,5/28/2020 17:00,2,0,0
+170,5/28/2020,,Singapore,5/28/2020 17:00,3,0,0
+171,5/28/2020,,Vietnam,5/28/2020 17:00,2,0,0
+172,5/28/2020,,France,5/28/2020 17:00,3,0,0
+173,6/5/2020,,Australia,6/5/2020 17:00,4,0,0
+174,6/5/2020,,Nepal,6/5/2020 17:00,1,0,0
+175,6/5/2020,,Malaysia,6/5/2020 17:00,3,0,0
+176,6/5/2020,Unknown,China,6/5/2020 17:00,0,0,0
+177,6/5/2020,,Kiribati,6/5/2020 17:00,0,0,0
+178,6/5/2020,Hubei,Mainland China,6/5/2020 17:00,1058,52,42
+179,6/5/2020,Guangdong,Mainland China,6/5/2020 17:00,111,0,2
+180,6/5/2020,Zhejiang,Mainland China,6/5/2020 17:00,104,0,1
+181,6/5/2020,Henan,Mainland China,6/5/2020 17:00,83,1,0
+182,6/8/2020,Chongqing,Mainland China,6/8/2020 17:00,75,0,0
+183,6/8/2020,Hunan,Mainland China,6/8/2020 17:00,69,0,0
+184,6/8/2020,Beijing,Mainland China,6/8/2020 17:00,68,0,2
+185,6/8/2020,Anhui,Mainland China,6/8/2020 17:00,60,0,0
+186,6/8/2020,Shandong,Mainland China,6/8/2020 17:00,46,0,0
+187,6/8/2020,Sichuan,Mainland China,6/8/2020 17:00,44,0,0
+188,6/8/2020,Shanghai,Mainland China,6/8/2020 17:00,40,1,1
+189,6/8/2020,Guangxi,Mainland China,6/8/2020 17:00,36,0,0
+190,6/8/2020,Jiangxi,Mainland China,6/8/2020 17:00,36,0,0
+191,6/8/2020,Fujian,Mainland China,6/8/2020 17:00,35,0,0
+192,6/8/2020,Jiangsu,Mainland China,6/8/2020 17:00,33,0,1
+193,6/8/2020,Hainan,Mainland China,6/8/2020 17:00,22,0,0
+194,6/8/2020,Shaanxi,Mainland China,6/8/2020 17:00,22,0,0
+195,6/8/2020,Liaoning,Mainland China,6/8/2020 17:00,21,0,0
+196,6/8/2020,Yunnan,Mainland China,6/8/2020 17:00,16,0,0
+197,6/8/2020,Heilongjiang,Mainland China,6/8/2020 17:00,15,1,0
+198,6/8/2020,Tianjin,Mainland China,6/8/2020 17:00,14,0,0
+199,6/8/2020,Hebei,Mainland China,6/8/2020 17:00,13,1,0
+200,6/8/2020,Shanxi,Mainland China,6/8/2020 17:00,9,0,0
+201,6/8/2020,Hong Kong,Hong Kong,6/8/2020 17:00,8,0,0
+202,6/8/2020,Inner Mongolia,Mainland China,6/8/2020 17:00,7,0,0
+203,6/8/2020,Gansu,Mainland China,6/8/2020 17:00,7,0,0
+204,6/10/2020,Guizhou,Mainland China,6/10/2020 17:00,5,0,0
+205,6/10/2020,Macau,Macau,1/26/2020 16:00,5,0,0
+206,6/10/2020,Ningxia,Mainland China,1/26/2020 16:00,4,0,0
+207,6/10/2020,Jilin,Mainland China,1/26/2020 16:00,4,0,0
+208,6/10/2020,Taiwan,Taiwan,1/26/2020 16:00,4,0,0
+209,6/10/2020,Xinjiang,Mainland China,1/26/2020 16:00,4,0,0
+210,6/10/2020,Qinghai,Mainland China,1/26/2020 16:00,1,0,0
+211,6/10/2020,Washington,US,1/26/2020 16:00,1,0,0
+212,6/10/2020,Illinois,US,1/26/2020 16:00,1,0,0
+213,6/10/2020,California,US,1/26/2020 16:00,2,0,0
+214,6/10/2020,Arizona,US,1/26/2020 16:00,1,0,0
+215,7/3/2020,,Japan,7/3/2020 16:00,4,0,1
+216,7/3/2020,,Thailand,7/3/2020 16:00,8,0,6
+217,7/3/2020,,South Korea,7/3/2020 16:00,3,0,0
+218,7/3/2020,,Singapore,7/3/2020 16:00,4,0,0
+219,7/3/2020,,Vietnam,7/3/2020 16:00,2,0,0
+220,7/5/2020,,France,7/5/2020 16:00,3,0,0
+221,7/5/2020,,Australia,7/5/2020 16:00,4,0,0
+222,7/5/2020,,Nepal,7/5/2020 16:00,1,0,0
+223,7/5/2020,,Malaysia,7/5/2020 16:00,4,0,0
+224,7/5/2020,Ontario,Canada,7/5/2020 16:00,1,0,0
+225,7/5/2020,Unknown,China,7/5/2020 16:00,0,0,0
+226,7/5/2020,,Kiribati,7/5/2020 16:00,0,0,0
+227,7/8/2020,Hubei,Mainland China,7/8/2020 16:00,1423,76,45
+228,7/8/2020,Guangdong,Mainland China,7/8/2020 16:00,151,0,4
+229,7/8/2020,Zhejiang,Mainland China,7/8/2020 16:00,128,0,1
+230,7/8/2020,Henan,Mainland China,7/8/2020 16:00,128,1,0
+231,7/8/2020,Chongqing,Mainland China,7/8/2020 16:00,110,0,0
+232,7/8/2020,Hunan,Mainland China,7/8/2020 16:00,100,0,0
+233,7/8/2020,Beijing,Mainland China,7/8/2020 16:00,80,1,2
+234,7/10/2020,Shandong,Mainland China,7/10/2020 16:00,75,0,0
+235,7/11/2020,Jiangxi,Mainland China,7/10/2020 16:00,72,0,2
+236,7/15/2020,Anhui,Mainland China,7/15/2020 16:00,70,0,0
+237,7/15/2020,Sichuan,Mainland China,7/15/2020 16:00,69,0,0
+238,7/15/2020,Fujian,Mainland China,7/15/2020 16:00,59,0,0
+239,7/15/2020,Shanghai,Mainland China,7/15/2020 16:00,53,1,3
+240,7/15/2020,Jiangsu,Mainland China,7/15/2020 16:00,47,0,1
+241,7/15/2020,Guangxi,Mainland China,7/15/2020 16:00,46,0,0
+242,7/15/2020,Shaanxi,Mainland China,7/15/2020 16:00,35,0,0
+243,7/15/2020,Hainan,Mainland China,7/15/2020 16:00,33,1,0
+244,7/20/2020,Liaoning,Mainland China,7/20/2020 16:00,27,0,0
+245,7/20/2020,Yunnan,Mainland China,7/20/2020 16:00,26,0,0
+246,7/20/2020,Tianjin,Mainland China,7/20/2020 16:00,23,0,0
+247,1/3/2019,Heilongjiang,Mainland China,1/3/2019 16:00,21,1,0
+248,1/4/2019,Hebei,Mainland China,1/4/2019 16:00,18,1,0
+249,1/5/2019,Gansu,Mainland China,1/5/2019 16:00,14,0,0
+250,1/6/2019,Shanxi,Mainland China,1/6/2019 16:00,13,0,0
+251,1/7/2019,Inner Mongolia,Mainland China,1/7/2019 16:00,11,0,0
+252,1/8/2019,Hong Kong,Hong Kong,1/8/2019 16:00,8,0,0
+253,1/9/2019,Guizhou,Mainland China,1/9/2019 16:00,7,0,0
+254,1/10/2019,Ningxia,Mainland China,1/10/2019 16:00,7,0,0
+255,1/11/2019,Jilin,Mainland China,1/11/2019 16:00,6,0,0
+256,1/12/2019,Macau,Macau,1/12/2019 16:00,6,0,0
+257,2/1/2019,Qinghai,Mainland China,2/1/2019 23:59,6,0,0
+258,2/2/2019,Taiwan,Taiwan,2/2/2019 23:59,5,0,0
+259,2/3/2019,Xinjiang,Mainland China,2/3/2019 23:59,5,0,0
+260,2/4/2019,Washington,US,2/4/2019 23:59,1,0,0
+261,2/5/2019,Illinois,US,2/5/2019 23:59,1,0,0
+262,2/6/2019,California,US,2/6/2019 23:59,2,0,0
+263,2/7/2019,Arizona,US,2/7/2019 23:59,1,0,0
+264,2/8/2019,,Japan,2/8/2019 23:59,4,0,1
+265,3/1/2019,,Thailand,3/1/2019 23:59,8,0,6
+266,3/2/2019,,South Korea,3/2/2019 23:59,4,0,0
+267,3/3/2019,,Singapore,3/3/2019 23:59,5,0,0
+268,3/4/2019,,Vietnam,3/4/2019 23:59,2,0,0
+269,3/5/2019,,France,3/5/2019 23:59,3,0,0
+270,3/6/2019,,Nepal,3/6/2019 23:59,1,0,0
+271,3/7/2019,,Malaysia,3/7/2019 23:59,4,0,0
+272,3/8/2019,Ontario,Canada,3/8/2019 23:59,1,0,0
+273,3/9/2019,,Cambodia,3/9/2019 23:59,1,0,0
+274,3/10/2019,,Sri Lanka,3/10/2019 23:59,1,0,0
+275,4/1/2019,,Ivory Coast,4/1/2019 23:59,1,0,0
+276,4/2/2019,New South Wales,Australia,4/2/2019 23:59,4,0,0
+277,4/3/2019,Victoria,Australia,4/3/2019 23:59,1,0,0
+278,4/4/2019,Unknown,China,4/4/2019 23:59,0,0,0
+279,4/5/2019,,Kiribati,4/5/2019 23:59,0,0,0
+280,4/6/2019,Hubei,Mainland China,4/6/2019 23:59,3554,125,80
+281,4/7/2019,Guangdong,Mainland China,4/7/2019 23:59,207,0,4
+282,4/8/2019,Zhejiang,Mainland China,4/8/2019 23:59,173,0,3
+283,4/9/2019,Henan,Mainland China,4/9/2019 23:59,168,1,0
+284,5/2/2019,Hunan,Mainland China,5/2/2019 23:59,143,0,0
+285,5/3/2019,Chongqing,Mainland China,5/3/2019 23:59,132,0,0
+286,5/4/2019,Jiangxi,Mainland China,5/4/2019 23:59,109,0,3
+287,5/5/2019,Anhui,Mainland China,5/5/2019 23:59,106,0,0
+288,5/6/2019,Shandong,Mainland China,5/6/2019 23:59,95,0,0
+289,5/7/2019,Beijing,Mainland China,5/7/2019 23:59,91,1,4
+290,5/8/2019,Sichuan,Mainland China,5/8/2019 23:59,90,0,0
+291,5/9/2019,Fujian,Mainland China,5/9/2019 23:59,80,0,0
+292,5/10/2019,Jiangsu,Mainland China,5/10/2019 23:59,70,0,1
+293,5/11/2019,Shanghai,Mainland China,5/11/2019 23:59,66,1,4
+294,6/1/2019,Guangxi,Mainland China,6/1/2019 23:59,51,0,2
+295,6/2/2019,Shaanxi,Mainland China,6/2/2019 23:59,46,0,0
+296,6/3/2019,Yunnan,Mainland China,6/3/2019 23:59,44,0,0
+297,6/4/2019,Hainan,Mainland China,6/4/2019 23:59,40,1,0
+298,6/5/2019,Liaoning,Mainland China,6/5/2019 23:59,34,0,0
+299,6/6/2019,Hebei,Mainland China,6/6/2019 23:59,33,1,0
+300,6/7/2019,Heilongjiang,Mainland China,6/7/2019 23:59,33,1,0
+301,6/8/2019,Shanxi,Mainland China,6/8/2019 23:59,27,0,0
+302,6/9/2019,Tianjin,Mainland China,6/9/2019 23:59,24,0,0
+303,6/10/2019,Gansu,Mainland China,6/10/2019 23:59,19,0,0
+304,6/11/2019,Inner Mongolia,Mainland China,6/11/2019 23:59,15,0,0
+305,6/12/2019,Ningxia,Mainland China,6/12/2019 23:59,11,0,0
+306,6/13/2019,Xinjiang,Mainland China,6/13/2019 23:59,10,0,0
+307,6/14/2019,Guizhou,Mainland China,6/14/2019 23:59,9,0,0
+308,6/15/2019,Jilin,Mainland China,6/15/2019 23:59,8,0,0
+309,7/1/2019,Taiwan,Taiwan,7/1/2019 23:59,8,0,0
+310,7/2/2019,Hong Kong,Hong Kong,7/2/2019 23:59,8,0,0
+311,7/3/2019,Macau,Macau,7/3/2019 23:59,7,0,0
+312,7/4/2019,Qinghai,Mainland China,7/4/2019 23:59,6,0,0
+313,7/5/2019,Washington,US,7/5/2019 23:59,1,0,0
+314,7/6/2019,Illinois,US,7/6/2019 23:59,1,0,0
+315,7/7/2019,California,US,7/7/2019 23:59,2,0,0
+316,7/8/2019,Arizona,US,7/8/2019 23:59,1,0,0
+317,7/9/2019,,Japan,7/9/2019 23:59,7,0,1
+318,7/10/2019,,Thailand,7/10/2019 23:59,14,0,6
+319,7/11/2019,,South Korea,7/11/2019 23:59,4,0,0
+320,7/12/2019,,Singapore,7/12/2019 23:59,7,0,0
+321,7/13/2019,,Vietnam,7/13/2019 23:59,2,0,0
+322,8/1/2019,,France,8/1/2019 23:59,4,0,0
+323,8/2/2019,,Nepal,8/2/2019 23:59,1,0,0
+324,8/3/2019,,Malaysia,8/3/2019 23:59,4,0,0
+325,8/4/2019,Ontario,Canada,8/4/2019 23:59,1,0,0
+326,8/5/2019,British Columbia,Canada,8/5/2019 23:59,1,0,0
+327,8/6/2019,,Cambodia,8/6/2019 23:59,1,0,0
+328,8/7/2019,,Sri Lanka,8/7/2019 23:59,1,0,0
+329,8/8/2019,New South Wales,Australia,8/8/2019 23:59,4,0,0
+330,8/9/2019,Victoria,Australia,8/9/2019 23:59,1,0,0
+331,8/10/2019,Bavaria,Germany,8/10/2019 23:59,4,0,0
+332,8/11/2019,Unknown,China,8/11/2019 23:59,0,0,0
+333,8/12/2019,,Kiribati,8/12/2019 23:59,0,0,0
+334,9/1/2019,Hubei,Mainland China,9/1/2019 23:59,3554,125,88
+335,9/2/2019,Zhejiang,Mainland China,9/2/2019 23:59,296,0,3
+336,9/3/2019,Guangdong,Mainland China,9/3/2019 23:59,277,0,5
+337,9/4/2019,Hunan,Mainland China,9/4/2019 23:59,221,0,0
+338,9/5/2019,Henan,Mainland China,9/5/2019 23:59,206,2,1
+339,9/6/2019,Anhui,Mainland China,9/6/2019 23:59,152,0,2
+340,9/7/2019,Chongqing,Mainland China,9/7/2019 23:59,147,0,1
+341,9/8/2019,Shandong,Mainland China,9/8/2019 23:59,130,0,1
+342,9/9/2019,Beijing,Mainland China,9/9/2019 23:59,111,1,4
+343,9/10/2019,Jiangxi,Mainland China,9/10/2019 23:59,109,0,3
+344,9/11/2019,Sichuan,Mainland China,9/11/2019 23:59,108,1,1
+345,10/1/2019,Jiangsu,Mainland China,10/1/2019 23:59,99,0,1
+346,10/2/2019,Shanghai,Mainland China,10/2/2019 23:59,96,1,5
+347,10/3/2019,Fujian,Mainland China,10/3/2019 23:59,84,0,0
+348,10/4/2019,Guangxi,Mainland China,10/4/2019 23:59,58,0,2
+349,10/5/2019,Shaanxi,Mainland China,10/5/2019 23:59,56,0,0
+350,10/6/2019,Yunnan,Mainland China,10/6/2019 23:59,55,0,0
+351,10/7/2019,Hebei,Mainland China,10/7/2019 23:59,48,1,0
+352,10/8/2019,Hainan,Mainland China,10/8/2019 23:59,43,1,0
+353,10/9/2019,Liaoning,Mainland China,10/9/2019 23:59,39,0,1
+354,10/10/2019,Heilongjiang,Mainland China,10/10/2019 23:59,38,1,0
+355,10/11/2019,Tianjin,Mainland China,10/11/2019 23:59,27,0,0
+356,10/12/2019,Shanxi,Mainland China,10/12/2019 23:59,27,0,1
+357,10/13/2019,Gansu,Mainland China,10/13/2019 23:59,24,0,0
+358,10/14/2019,Inner Mongolia,Mainland China,10/14/2019 23:59,16,0,0
+359,10/15/2019,Xinjiang,Mainland China,10/15/2019 23:59,13,0,0
+360,10/16/2019,Ningxia,Mainland China,10/16/2019 23:59,12,0,0
+361,11/1/2019,Hong Kong,Hong Kong,11/1/2019 23:59,10,0,0
+362,11/2/2019,Guizhou,Mainland China,11/2/2019 23:59,9,0,1
+363,11/3/2019,Jilin,Mainland China,11/3/2019 23:59,9,0,0
+364,11/4/2019,Taiwan,Taiwan,11/4/2019 23:59,8,0,0
+365,11/5/2019,Macau,Macau,11/5/2019 23:59,7,0,0
+366,11/6/2019,Qinghai,Mainland China,11/6/2019 23:59,6,0,0
+367,11/7/2019,Washington,US,11/7/2019 23:59,1,0,0
+368,11/8/2019,Illinois,US,11/8/2019 23:59,1,0,0
+369,11/9/2019,California,US,11/9/2019 23:59,2,0,0
+370,11/10/2019,Arizona,US,11/10/2019 23:59,1,0,0
+371,11/11/2019,,Japan,11/11/2019 23:59,7,0,1
+372,11/12/2019,,Thailand,11/12/2019 23:59,14,0,6
+373,11/13/2019,,South Korea,11/13/2019 23:59,4,0,0
+374,11/14/2019,,Singapore,11/14/2019 23:59,7,0,0
+375,12/1/2019,,Vietnam,12/1/2019 23:59,2,0,0
+376,12/2/2019,,France,12/2/2019 23:59,5,0,0
+377,12/3/2019,,Nepal,12/3/2019 23:59,1,0,0
+378,12/4/2019,,Malaysia,12/4/2019 23:59,7,0,0
+379,12/5/2019,Ontario,Canada,12/5/2019 23:59,1,0,0
+380,12/6/2019,British Columbia,Canada,12/6/2019 23:59,1,0,0
+381,12/7/2019,,Cambodia,12/7/2019 23:59,1,0,0
+382,12/8/2019,,Sri Lanka,12/8/2019 23:59,1,0,0
+383,12/9/2019,New South Wales,Australia,12/9/2019 23:59,4,0,0
+384,12/10/2019,Victoria,Australia,12/10/2019 23:59,1,0,0
+385,12/11/2019,Bavaria,Germany,12/11/2019 23:59,4,0,0
+386,12/12/2019,,Finland,12/12/2019 23:59,1,0,0
+387,12/13/2019,,United Arab Emirates,12/13/2019 23:59,4,0,0
+388,8/1/2020,Unknown,China,8/1/2020 19:30,0,0,0
+389,8/2/2020,,Kiribati,8/2/2020 19:30,0,0,0
+390,8/3/2020,Hubei,Mainland China,8/3/2020 19:30,4903,162,90
+391,8/4/2020,Zhejiang,Mainland China,8/4/2020 19:30,428,0,4
+392,8/5/2020,Guangdong,Mainland China,8/5/2020 19:30,354,0,10
+393,8/6/2020,Henan,Mainland China,8/6/2020 19:30,278,2,2
+394,8/7/2020,Hunan,Mainland China,8/7/2020 19:30,277,0,2
+395,8/8/2020,Anhui,Mainland China,8/8/2020 19:30,200,0,2
+396,8/9/2020,Chongqing,Mainland China,8/9/2020 19:30,182,0,1
+397,8/10/2020,Jiangxi,Mainland China,8/10/2020 19:30,162,0,5
+398,8/11/2020,Shandong,Mainland China,8/11/2020 19:30,158,0,1
+399,8/12/2020,Sichuan,Mainland China,8/12/2020 19:30,142,1,1
+400,8/13/2020,Jiangsu,Mainland China,8/13/2020 19:30,129,0,1
+401,9/1/2020,Beijing,Mainland China,9/1/2020 19:30,114,1,4
+402,9/2/2020,Shanghai,Mainland China,9/2/2020 19:30,112,1,5
+403,9/3/2020,Fujian,Mainland China,9/3/2020 19:30,101,0,0
+404,9/4/2020,Guangxi,Mainland China,9/4/2020 19:30,78,0,2
+405,9/5/2020,Yunnan,Mainland China,9/5/2020 19:30,70,0,0
+406,9/6/2020,Hebei,Mainland China,9/6/2020 19:30,65,1,0
+407,9/7/2020,Shaanxi,Mainland China,9/7/2020 19:30,63,0,0
+408,9/8/2020,Hainan,Mainland China,9/8/2020 19:30,46,1,1
+409,9/9/2020,Heilongjiang,Mainland China,9/9/2020 19:30,44,2,0
+410,9/10/2020,Liaoning,Mainland China,9/10/2020 19:30,41,0,1
+411,9/11/2020,Shanxi,Mainland China,9/11/2020 19:30,35,0,1
+412,9/12/2020,Tianjin,Mainland China,9/12/2020 19:30,31,0,0
+413,9/13/2020,Gansu,Mainland China,9/13/2020 19:30,26,0,0
+414,9/14/2020,Inner Mongolia,Mainland China,9/14/2020 19:30,19,0,0
+415,9/15/2020,Ningxia,Mainland China,9/15/2020 19:30,17,0,0
+416,9/16/2020,Jilin,Mainland China,9/16/2020 19:30,14,0,1
+417,9/17/2020,Xinjiang,Mainland China,9/17/2020 19:30,14,0,0
+418,10/1/2020,Guizhou,Mainland China,10/1/2020 19:30,12,0,1
+419,10/2/2020,Hong Kong,Hong Kong,10/2/2020 19:30,10,0,0
+420,10/3/2020,Taiwan,Taiwan,10/3/2020 19:30,9,0,0
+421,10/4/2020,Qinghai,Mainland China,10/4/2020 19:30,8,0,0
+422,10/5/2020,Macau,Macau,10/5/2020 19:30,7,0,0
+423,10/6/2020,Tibet,Mainland China,10/6/2020 19:30,1,0,0
+424,10/7/2020,Washington,US,10/7/2020 19:30,1,0,0
+425,10/8/2020,Illinois,US,10/8/2020 19:30,1,0,0
+426,10/9/2020,California,US,10/9/2020 19:30,2,0,0
+427,10/10/2020,Arizona,US,10/10/2020 19:30,1,0,0
+428,10/11/2020,,Japan,10/11/2020 19:30,11,0,1
+429,10/12/2020,,Thailand,10/12/2020 19:30,14,0,7
+430,10/13/2020,,South Korea,10/13/2020 19:30,4,0,0
+431,10/14/2020,,Singapore,10/14/2020 19:30,10,0,0
+432,10/15/2020,,Vietnam,10/15/2020 19:30,2,0,0
+433,11/1/2020,,France,11/1/2020 19:30,5,0,0
+434,11/2/2020,,Nepal,11/2/2020 19:30,1,0,0
+435,11/3/2020,,Malaysia,11/3/2020 19:30,8,0,0
+436,11/4/2020,Ontario,Canada,11/4/2020 19:30,2,0,0
+437,11/5/2020,British Columbia,Canada,11/5/2020 19:30,1,0,0
+438,11/6/2020,,Cambodia,11/6/2020 19:30,1,0,0
+439,11/7/2020,,Sri Lanka,11/7/2020 19:30,1,0,0
+440,11/8/2020,New South Wales,Australia,11/8/2020 19:30,4,0,2
+441,11/9/2020,Victoria,Australia,11/9/2020 19:30,2,0,0
+442,11/10/2020,Queensland,Australia,11/10/2020 19:30,3,0,0
+443,11/11/2020,Bavaria,Germany,11/11/2020 19:30,4,0,0
+444,11/12/2020,,Finland,11/12/2020 19:30,1,0,0
+445,11/13/2020,,United Arab Emirates,11/13/2020 19:30,4,0,0
+446,11/14/2020,,Philippines,11/14/2020 19:30,1,0,0
+447,11/15/2020,,India,11/15/2020 19:30,1,0,0
+448,11/16/2020,Unknown,China,11/16/2020 19:30,0,0,0
+449,11/17/2020,,Kiribati,11/17/2020 19:30,0,0,0
+450,11/18/2020,Hubei,Mainland China,11/18/2020 19:30,5806,204,141
+451,11/19/2020,Zhejiang,Mainland China,11/19/2020 19:30,538,0,14
+452,11/20/2020,Guangdong,Mainland China,11/20/2020 19:30,436,0,11
+453,11/21/2020,Henan,Mainland China,11/21/2020 19:30,352,2,3
+454,11/22/2020,Hunan,Mainland China,11/22/2020 19:30,332,0,2
+455,11/23/2020,Jiangxi,Mainland China,11/23/2020 19:30,240,0,7
+456,11/24/2020,Anhui,Mainland China,11/24/2020 19:30,237,0,3
+457,11/25/2020,Chongqing,Mainland China,11/25/2020 19:30,211,0,1
+458,11/26/2020,Shandong,Mainland China,11/26/2020 19:30,184,0,2
+459,11/27/2020,Sichuan,Mainland China,11/27/2020 19:30,177,1,1
+460,11/28/2020,Jiangsu,Mainland China,11/28/2020 19:30,168,0,5
+461,11/29/2020,Beijing,Mainland China,11/29/2020 19:30,139,1,5
+462,12/1/2020,Shanghai,Mainland China,11/30/2020 19:30,135,1,9
+463,12/2/2020,Fujian,Mainland China,12/1/2020 19:30,120,0,0
+464,12/3/2020,Guangxi,Mainland China,1/31/2020 23:59,87,0,2
+465,12/4/2020,Shaanxi,Mainland China,1/31/2020 23:59,87,0,0
+466,12/5/2020,Yunnan,Mainland China,1/31/2020 23:59,83,0,1
+467,12/6/2020,Hebei,Mainland China,1/31/2020 23:59,82,1,0
+468,12/7/2020,Heilongjiang,Mainland China,1/31/2020 23:59,59,2,0
+469,12/8/2020,Hainan,Mainland China,1/31/2020 23:59,52,1,1
+470,12/9/2020,Liaoning,Mainland China,1/31/2020 23:59,48,0,1
+471,12/10/2020,Shanxi,Mainland China,1/31/2020 23:59,39,0,1
+472,12/11/2020,Tianjin,Mainland China,1/31/2020 23:59,32,0,0
+473,12/12/2020,Guizhou,Mainland China,1/31/2020 23:59,29,0,2
+474,12/13/2020,Gansu,Mainland China,1/31/2020 23:59,29,0,0
+475,12/14/2020,Ningxia,Mainland China,1/31/2020 23:59,21,0,0
+476,12/15/2020,Inner Mongolia,Mainland China,1/31/2020 23:59,20,0,1
+477,12/16/2020,Xinjiang,Mainland China,1/31/2020 23:59,17,0,0
+478,12/17/2020,Jilin,Mainland China,1/31/2020 23:59,14,0,1
+479,12/18/2020,Hong Kong,Hong Kong,1/31/2020 23:59,12,0,0
+480,12/19/2020,Taiwan,Taiwan,1/31/2020 23:59,10,0,0
+481,12/20/2020,Qinghai,Mainland China,1/31/2020 23:59,8,0,0
+482,12/21/2020,Macau,Macau,1/31/2020 23:59,7,0,0
+483,12/22/2020,Tibet,Mainland China,1/31/2020 23:59,1,0,0
+484,12/23/2020,,Thailand,1/31/2020 23:59,19,0,8
+485,12/24/2020,,Japan,1/31/2020 23:59,15,0,1
+486,12/25/2020,,Singapore,1/31/2020 23:59,13,0,0
+487,12/26/2020,,South Korea,1/31/2020 23:59,11,0,0
+488,12/27/2020,,Malaysia,1/31/2020 23:59,8,0,0
+489,12/28/2020,,France,1/31/2020 23:59,5,0,0
+490,12/29/2020,Bavaria,Germany,1/31/2020 23:59,5,0,0
+491,12/30/2020,New South Wales,Australia,1/31/2020 23:59,4,0,2
+492,10/16/2020,,United Arab Emirates,1/31/2020 23:59,4,0,0
+493,10/17/2020,Victoria,Australia,1/31/2020 23:59,3,0,0
+494,10/18/2020,Illinois,US,1/31/2020 23:59,2,0,0
+495,10/19/2020,California,US,1/31/2020 23:59,2,0,0
+496,10/20/2020,,Vietnam,1/31/2020 23:59,2,0,0
+497,10/21/2020,Ontario,Canada,1/31/2020 23:59,2,0,0
+498,10/22/2020,Queensland,Australia,1/31/2020 23:59,2,0,0
+499,10/23/2020,,Italy,1/31/2020 23:59,2,0,0
+500,10/24/2020,,UK,1/31/2020 23:59,2,0,0
+501,10/25/2020,,Russia,1/31/2020 23:59,2,0,0
+502,10/26/2020,Washington,US,1/31/2020 23:59,1,0,0
+503,10/27/2020,Arizona,US,1/31/2020 23:59,1,0,0
+504,10/28/2020,,Nepal,1/31/2020 23:59,1,0,0
+505,10/29/2020,British Columbia,Canada,1/31/2020 23:59,1,0,0
+506,8/13/2020,,Cambodia,1/31/2020 23:59,1,0,0
+507,8/14/2020,,Sri Lanka,1/31/2020 23:59,1,0,0
+508,8/15/2020,,Finland,1/31/2020 23:59,1,0,0
+509,8/16/2020,,Philippines,1/31/2020 23:59,1,0,0
+510,8/17/2020,,India,1/31/2020 23:59,1,0,0
+511,8/18/2020,,Sweden,1/31/2020 23:59,1,0,0
+512,8/19/2020,Unknown,China,1/31/2020 23:59,0,0,0
+513,8/20/2020,,Kiribati,1/31/2020 23:59,0,0,0
