@@ -7,6 +7,7 @@ from airflow.providers.common.sql.operators.sql import SQLExecuteQueryOperator
 # from airflow.legacy.providers.postgres.operators.postgres import PostgresOperator
 # from airflow.providers.postgres.operators.postgres import PostgresOperator
 from airflow.providers.amazon.aws.operators.redshift_data import RedshiftDataOperator
+from airflow.operators import LoadFactOperator
 
 import sql_scripts
 
@@ -72,3 +73,8 @@ stage_songs_to_redshift = RedshiftDataOperator(
     region_name='us-west-2'
 )
 
+load_songplays_table = LoadFactOperator(
+    task_id='Load_songplays_fact_table',
+    dag=dag,
+    conn_id="redshift"   
+)
